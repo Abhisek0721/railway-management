@@ -10,8 +10,8 @@ It can handle race condition while booking train seats.
     "default": {
         "ENGINE": "django.db.backends.mysql",
         "NAME": "railwaymanagement",
-        "USER": "root",
-        "PASSWORD": "root",
+        "USER": "mysql username",
+        "PASSWORD": "mysql password",
         "HOST": "localhost",
         "PORT": "3306"
     }
