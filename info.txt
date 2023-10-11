@@ -1,0 +1,5 @@
+superuser
+
+username: abhisekupa
+password: abhisekupa32
+email: abhisek0721@gmail.com
